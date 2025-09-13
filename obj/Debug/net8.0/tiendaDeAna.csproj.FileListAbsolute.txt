@@ -1,0 +1,14 @@
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna.deps.json
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna.runtimeconfig.json
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna.dll
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/bin/Debug/net8.0/tiendaDeAna.pdb
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.GeneratedMSBuildEditorConfig.editorconfig
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.AssemblyInfoInputs.cache
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.AssemblyInfo.cs
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.csproj.CoreCompileInputs.cache
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.dll
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/refint/tiendaDeAna.dll
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.pdb
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/tiendaDeAna.genruntimeconfig.cache
+/home/tequie/RiderProjects/tiendaDeAna/tiendaDeAna/obj/Debug/net8.0/ref/tiendaDeAna.dll
